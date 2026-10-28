@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251495147646",
+    "project_id": "inventariskasir",
+    "storage_bucket": "inventariskasir.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251495147646:android:41623ea1d0b19f1d9d902f",
+        "android_client_info": {
+          "package_name": "com.example.inventaris_kasir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmYqeJbV3Wx27Bi-5yeWf92B09-U-KV6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
