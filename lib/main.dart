@@ -1,12 +1,10 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:flutter/foundation.dart' show kIsWeb;
 import 'firebase_options.dart';
 import 'screens/home_screen.dart';
 import 'screens/login_screen.dart';
 import 'screens/api_list_screen.dart';
-import 'screens/api_detail_screen.dart';
 import 'providers/api_provider.dart';
 import 'providers/auth_provider.dart';
 import 'providers/item_provider.dart';
